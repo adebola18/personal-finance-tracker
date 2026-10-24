@@ -25,3 +25,6 @@ Features
  Project Purpose
 
 This project was created to practice frontend web development and JavaScript programming while building a practical personal finance application.
+Screenshot
+
+![Personal Finance Tracker](screenshot.png)
